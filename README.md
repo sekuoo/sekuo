@@ -1,13 +1,11 @@
 <p align="center">
   <img src="logo.png" width="100" alt="Logo">
-  <h2 align="center">Sekuo</h2>
+  <strong style="font-size: 2em; vertical-align: middle;">Sekuo</strong>
+  <img src="https://img.shields.io/badge/stars-0-b7bdf8?style=for-the-badge" style="vertical-align: middle;">
+  <img src="https://img.shields.io/badge/issues-0-f5a97f?style=for-the-badge" style="vertical-align: middle;">
+  <img src="https://img.shields.io/badge/contributors-1-a6da95?style=for-the-badge" style="vertical-align: middle;">
 </p>
-  
-<div width="100%" align="center">
-  <img src="https://img.shields.io/badge/stars-0-b7bdf8?style=for-the-badge">
-  <img src="https://img.shields.io/badge/issues-0-f5a97f?style=for-the-badge">
-  <img src="https://img.shields.io/badge/contributors-1-a6da95?style=for-the-badge">
-</div>
+
 
 ## Website
 Open the website [here](https://sekuoo.github.io/sekuo.html/).
