@@ -1,3 +1,6 @@
+> [!WARNING]  
+> This project is currently in development phase and not production-ready.
+
 <p align="center">
   <img src="logo.png" width="100" alt="Logo">
   <br>
