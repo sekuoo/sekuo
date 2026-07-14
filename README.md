@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="YOUR_IMAGE_URL" width="150" alt="Logo">
+  <img src="logo.png" width="150" alt="Logo">
   <h2 align="center">Sekuo</h2>
 </p>
 
