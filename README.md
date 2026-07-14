@@ -1,8 +1,9 @@
 <p align="center">
   <img src="logo.png" width="150" alt="Logo">
-  <h2 font-size="40px" align="center">Sekuo</h2>
+  <h2 align="center">Sekuo</h2>
 </p>
 
+<img src="https://img.shields.io/badge/contributors-1-a6da95?style=for-the-badge">
 
 ## Website
 Open the website [here](https://sekuoo.github.io/sekuo.html/).
