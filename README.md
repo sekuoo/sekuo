@@ -3,7 +3,9 @@
   <h2 align="center">Sekuo</h2>
 </p>
 
-<img src="https://img.shields.io/badge/contributors-1-a6da95?style=for-the-badge">
+<div align="center">
+  <img src="https://img.shields.io/badge/contributors-1-a6da95?style=for-the-badge">
+</div>
 
 ## Website
 Open the website [here](https://sekuoo.github.io/sekuo.html/).
