@@ -1,9 +1,11 @@
-<p align="center">
+<p align="center" vertical-align: middle;>
   <img src="logo.png" width="100" alt="Logo">
   <strong style="font-size: 2em; vertical-align: middle;">Sekuo</strong>
-  <img src="https://img.shields.io/badge/stars-0-b7bdf8?style=for-the-badge" style="vertical-align: middle;">
-  <img src="https://img.shields.io/badge/issues-0-f5a97f?style=for-the-badge" style="vertical-align: middle;">
-  <img src="https://img.shields.io/badge/contributors-1-a6da95?style=for-the-badge" style="vertical-align: middle;">
+  <div>
+    <img src="https://img.shields.io/badge/stars-0-b7bdf8?style=for-the-badge" style="vertical-align: middle;">
+    <img src="https://img.shields.io/badge/issues-0-f5a97f?style=for-the-badge" style="vertical-align: middle;">
+    <img src="https://img.shields.io/badge/contributors-1-a6da95?style=for-the-badge" style="vertical-align: middle;">
+  </div>
 </p>
 
 
