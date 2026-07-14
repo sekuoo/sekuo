@@ -6,12 +6,9 @@
     <img src="https://img.shields.io/badge/stars-0-b7bdf8?style=for-the-badge" style="vertical-align: middle;">
     <img src="https://img.shields.io/badge/issues-0-f5a97f?style=for-the-badge" style="vertical-align: middle;">
     <img src="https://img.shields.io/badge/contributors-1-a6da95?style=for-the-badge" style="vertical-align: middle;">
+    <a href="https://sekuoo.github.io/sekuo/index.html/"><img src="https://img.shields.io/badge/sekuo-website?style=for-the-badge"></a>
   </div>
 </p>
-
-
-## Website
-Open the website [here](https://sekuoo.github.io/sekuo.html/).
 
 ## Usage
 ```txt
