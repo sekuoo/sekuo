@@ -1,5 +1,8 @@
 # Sekuo
 
+## Website
+Open the website [here](https://sekuoo.github.io/sekuo.html/).
+
 ## Usage
 ```txt
 * no use of any library
