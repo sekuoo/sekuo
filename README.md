@@ -24,4 +24,4 @@ Ethan Kincaid
 ```
 
 ## License
-<a href="https://choosealicense.com/licenses/mit/"><img src="https://img.shields.io/bagde/license-mit-b7bdf8?style=for-the-bagde"></a>
+<a href="https://choosealicense.com/licenses/mit/"><img src="https://img.shields.io/badge/license-mit-b7bdf8?style=for-the-badge"></a>
