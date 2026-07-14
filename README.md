@@ -1,6 +1,6 @@
 <p align="center">
   <img src="logo.png" width="150" alt="Logo">
-  <h2 align="center">Sekuo</h2>
+  <h2 font-size="40px" align="center">Sekuo</h2>
 </p>
 
 
