@@ -4,6 +4,7 @@
 </p>
 
 <div width="100%" align="center">
+  [![GitHub Stars](https://shields.io)](https://github.com)
   <img src="https://img.shields.io/badge/contributors-1-a6da95?style=for-the-badge">
 </div>
 
