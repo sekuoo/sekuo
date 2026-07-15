@@ -20,7 +20,7 @@
 
 ## Authors
 ```txt
-Ethan Kincaid
+sekuoo (Ethan Kincaid)
 ```
 
 ## License
